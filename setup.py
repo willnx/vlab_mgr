@@ -7,11 +7,11 @@ from setuptools import setup, find_packages
 
 setup(name="vlab-mgr",
       author="Nicholas Willhite",
-      version='0.0.0',
+      version='0.0.1',
       packages=find_packages(),
       classifiers=[
         'Development Status :: 3 - Alpha',
-        'Intended Audience :: System Administration',
+        'Intended Audience :: System Administrators',
         'License :: OSI Approved :: Apache Software License',
         'Natural Language :: English',
         'Programming Language :: Python :: 3.5',
